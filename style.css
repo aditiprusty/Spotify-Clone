@@ -18,7 +18,7 @@ nav ul{
     align-items: center;
     list-style-type: none;
     height: 65px;
-    background-color: rgb(50, 53, 80);
+    background-color: black;
     color: white;
 }
 
@@ -54,7 +54,7 @@ nav ul li{
     position: sticky;
     bottom: 0;
     height: 130px;
-    background-color: rgb(50, 53, 80);
+    background-color: black;
     color: white;
     display: flex;
     justify-content: center;
